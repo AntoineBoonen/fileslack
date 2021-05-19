@@ -16,7 +16,7 @@ LFLAGS=-Wall -Wextra -Wshadow -Wmissing-prototypes
 
 OBJ=fileslack.o
 
-.PHONY: $(TARGET) clean clean-all
+.PHONY: clean clean-all
 
 ################## RULES ##################
 
